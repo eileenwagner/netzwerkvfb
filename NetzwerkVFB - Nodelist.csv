@@ -1,0 +1,43 @@
+id,name,type,age,education,football,function,representation,position
+TH,Thomas Hitzlsperger,0,1,2,2,V,5,1
+SH,Stefan Heim,0,2,5,1,V,2,3
+JR,Jochen Röttgermann,0,2,5,1,V,7,3
+OS,Oliver Schraft,0,2,5,1,V,7,3
+CV,Claus Vogt,0,2,5,1,AR,NA,1
+WP,Wilfried Porth,0,3,5,1,AR,NA,2
+RA,Rainer Adrion,0,3,5,3,AR,NA,3
+BG,Dr. Bernd Gaiser,0,2,6,1,AR,NA,3
+HJ,Hartmut Jenner,0,2,5,1,AR,NA,3
+HO,Hermann Ohlicher,0,3,5,2,AR,NA,3
+FR,Franz Reiner,0,2,5,1,AR,NA,3
+BS,Dr. Bertram Sugg,0,2,6,1,AR,NA,3
+VAG,VfB Stuttgart 1893 AG,1,NA,NA,NA,NA,NA,NA
+VEV,VfB Stuttgart 1893 e.V.,1,NA,NA,NA,NA,NA,NA
+ARD,Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bunsrepublik Deutschland,1,NA,NA,NA,NA,NA,NA
+VRW,VfB Reha-Welt GmbH ,1,NA,NA,NA,NA,NA,NA
+SNP,Stadion NeckarPark GmbH & Co. KG.,1,NA,NA,NA,NA,NA,NA
+VAB,VfB Stuttgart Arena Betriebs GmbH,1,NA,NA,NA,NA,NA,NA
+VMG,VfB Stuttgart Marketing GmbH,1,NA,NA,NA,NA,NA,NA
+VBG,VfB Stuttgart Beteiligungs-GmbH,1,NA,NA,NA,NA,NA,NA
+WFV,Württembergischer Fußballverband e.V.,1,NA,NA,NA,NA,NA,NA
+VSD,Verband für Sportökonomie und Sportmanagement in Deutschland e.V.,1,NA,NA,NA,NA,NA,NA
+SPC,SponsorCom GmbH,1,NA,NA,NA,NA,NA,NA
+IMG,International Management Group,1,NA,NA,NA,NA,NA,NA
+DFL,Deutsche Fußball Liga e.V.,1,NA,NA,NA,NA,NA,NA
+VWB,Vfl Wolfsburg GmbH,1,NA,NA,NA,NA,NA,NA
+RBG,Robert Bosch GmbH,1,NA,NA,NA,NA,NA,NA
+FHC,Franz Haniel & Cie GmbH,1,NA,NA,NA,NA,NA,NA
+MAG,Metro AG,1,NA,NA,NA,NA,NA,NA
+IGH,Intesia Group Holding GmbH,1,NA,NA,NA,NA,NA,NA
+FPF,FC PlayFair! Verein für Integrität und Nachhaltigkeit im Fußball e.V.,1,NA,NA,NA,NA,NA,NA
+DAG,Daimler AG,1,NA,NA,NA,NA,NA,NA
+DBA,Daimler-Benz AG,1,NA,NA,NA,NA,NA,NA
+DFB,Deutscher Fußball Bund e.V.,1,NA,NA,NA,NA,NA,NA
+HVP,Horváth & Partners,1,NA,NA,NA,NA,NA,NA
+RCH,RECARO Holding GmbH,1,NA,NA,NA,NA,NA,NA
+AFK,Alfred Kärcher SE & Co. KG.,1,NA,NA,NA,NA,NA,NA
+TLG,Toto Lotto GmbH Baden-Württemberg ,1,NA,NA,NA,NA,NA,NA
+MBF,Mercedes-Benz Finanz GmbH,1,NA,NA,NA,NA,NA,NA
+MBB,Mercedes-Benz Bank AG,1,NA,NA,NA,NA,NA,NA
+DMA,Daimler Mobility AG,1,NA,NA,NA,NA,NA,NA
+FCG,Fanclub Courage Gerlingen,1,NA,NA,NA,NA,NA,NA
