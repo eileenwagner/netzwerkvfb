@@ -3,9 +3,9 @@ Codebuch Stand 2021-02-15<br>
 erstellt von Eileen Wagner (ew043@hdm-stuttgart.de)
 
 ## Inhalt
-- Edgelist_Rügen-Ranger_Pretest.csv (Edgelist)
-- Nodelist_Rügen-Ranger_Pretest.csv (Nodelist)
-- Codebuch.md (Codierung der Datensätze)
+- netzwerkvfb_NetzwerkVFB_Edgelist.csv (Edgelist)
+- netzwerkvfb_NetzwerkVFB_Nodelist.csv (Nodelist)
+- netzwerkvfb_CodebuchVFB.csv (Codierung der Datensätze)
 
 
 # Edgelist
@@ -32,6 +32,7 @@ gibt die Dauer an, in der eine Person für eine bestimmte Position zuständig wa
 2 = zwei bis sechs Jahre
 3 = mehr als sechs Jahre
 4 = Mitgliedschaft besteht noch
+
 
 # Nodelist
 
