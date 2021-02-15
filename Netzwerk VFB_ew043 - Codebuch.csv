@@ -1,0 +1,27 @@
+CODEBUCH,
+"Im Codebuch definieren Sie, wie und nach welchen Kriterien erfasst werden.",
+Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt. Beispiel siehe hier.,
+Wert,Kommentar
+edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+from,"definiert die natürliche Person, von der eine Mitgliedschaft ausgeht. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort (z.B. TH)                                                "
+to ,"definiert alle aktiven Mitgliedschaften einer Person. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. (z.B. DBA)"
+time,"definiert das Jahr, in dem die Person einer Mitgliedschaft beigetreten ist, wird als natürliche Zahl angegeben (z.B. 2010) "
+duration,"gibt die Dauer an, in der eine Person für eine bestimmte Position zuständig war, wird als Skalierung angegeben: Wenn die Mitgliedschaft noch besteht = NA, bis 1 Jahr = 1, zwei bis sechs Jahre = 2, mehr als sechs Jahre = 3"
+,
+nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+id,"eindeutige Codierung des Knoten, wird als nominale Abkürzung angegeben (z.B. Thomas Hitzlsperger = TH)"
+name,Vollständiger Name des Knotens (z.B. VfB Stuttgart 1893 AG)
+type,"Unterscheidung zwischen Person und Organisation, wird als Skalierung angegeben: Person = 0, Organisation = 1"
+age,"gibt das Alter der natürlichen Person an, wird als Skalierung angegeben: 26 bis 39 = 1, 40 bis 59 = 2, über 60 = 3"
+education,"gibt den Bildungsstand der natürlichen Person an, wird als Skalierung angegeben: Hauptschule = 1, Mittlere Reife = 2, Fachhochschulreife = 3, Abitur = 4, Studium = 5, Promotion = 6"
+football,"gibt an, ob die natürliche Person Fußballspieler oder Trainer war bzw. ist, wird als Skalierung angegeben: kein Fußballspieler = 1, Fußballspieler = 2, Trainer = 3"
+function,"definiert die Mitgliedschaft in einem Organ des VfB-Clubs an, wird als nominale Abkürzung angegeben: Vorstand = V, Aufsichtsrat = AR"
+representation,"definiert die Funktion der natürlichen Person innerhalb der VfB-Gremien, wird als Skalierung angegeben: Politik = 1, Wirtschaft = 2, Gewerkschaft = 3, Umwelt = 4, Sport = 5, Wissenschaft = 6, Marketing und Kommunikation = 7"
+position,"definiert die besondere Position der natürlichen Person innerhalb des VfB-Clubs, wird als Skalierung angegeben: Vorsitz = 1, Stellvertreter = 2, Mitglied in der VFB-Organisation = 3"
+NA,"definiert fehlende Werte, bei der Datenerhebung das Feld einfach weglassen."
+,
+Bearbeitungshinweise,
+Link zum gesamten Repository: https://github.com/Artsky0/Ruegen-Ranger,
+"Beispiel für die Dokumentation von Codebuch, Edge- und Nodelist von Sandhu:",
+https://github.com/hdm-crpr/226305/tree/master/data/crpr2,
+Vergeben Sie stets eindeutige Spaltenbeschriftungen. Am besten immer nur ein Begriff ohne Sonderzeichen etc.,
