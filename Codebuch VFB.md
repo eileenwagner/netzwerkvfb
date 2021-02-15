@@ -80,7 +80,7 @@ gibt an, ob die natürliche Person Fußballspieler oder Trainer war bzw. ist, wi
 2 = Fußballspieler 
 3 = Trainer 
 
-**function**
+**committee**
 
 definiert die Mitgliedschaft in einem Organ des VfB-Clubs an, wird als nominale Abkürzung angegeben
 
