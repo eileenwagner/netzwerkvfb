@@ -22,11 +22,11 @@ definiert alle aktiven Mitgliedschaften einer Person. Entspricht ID in der Nodel
 
 **time**
 
-definiert das Jahr, in dem die Person einer Mitgliedschaft beigetreten ist, wird als natürliche Zahl angegeben (z.B. 2010) 
+definiert das Jahr, in dem die Person einer Mitgliedschaft beigetreten ist, wird als natürliche Zahl angegeben (z.B. 2010). Bei abgebrochenen Mitgliedschaften, zählt das Jahr,in der eine neue Mitgliedschaft begonnen wurde.
 
 **duration**
 
-gibt die Dauer an, in der eine Person für eine bestimmte Position zuständig war, wird als Skalierung angegeben
+gibt die Dauer an, in der eine Person für eine bestimmte Position zuständig war, wird als Skalierung angegeben. 
 
 1 = bis 1 Jahr 
 2 = zwei bis sechs Jahre
