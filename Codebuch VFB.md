@@ -1,5 +1,5 @@
 # Netzwerk VfB Codebuch #
-Codebuch Stand 2021-02-15<br>
+Codebuch Stand 2021-02-17<br>
 erstellt von Eileen Wagner (ew043@hdm-stuttgart.de)
 
 ## Inhalt
@@ -82,7 +82,7 @@ gibt an, ob die natürliche Person Fußballspieler oder Trainer war bzw. ist, wi
 
 **committee**
 
-definiert die Mitgliedschaft in einem Organ des VfB-Clubs an, wird als nominale Abkürzung angegeben
+definiert die Verbindung der Mitgliedschaft zu einem Organ des VfB-Clubs an, wird als nominale Abkürzung angegeben
 
 1 = Vorstand 
 2 = Aufsichtsrat 
