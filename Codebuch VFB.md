@@ -50,8 +50,8 @@ Vollständiger Name des Knotens (z.B. VfB Stuttgart 1893 AG)
 
 Unterscheidung zwischen Person und Organisation, wird als Skalierung angegeben
 
-0 = Person
-1 = Organisation 
+1 = Person
+2 = Organisation 
 
 **age**
 
